@@ -1,0 +1,7 @@
+Create a repository on github account
+check whether you have git(library) installed and configure locally.
+Initialize git instance within the project you would want transport
+Add our code base to git pipeline transporter.
+Coommit our work ie codebase that was added
+Create a connection between the local environment and remote environment.
+Push the codebase to the remote environment.
